@@ -67,9 +67,18 @@ All texts have been normalized, lemmatized, and translated into English for cons
 | BERT                | 0.91              |
 
 
-<p align="center">
-  <img src="assets/f1_comparison_chart.png" width="500" alt="F1 Score Comparison">
-</p>
+## ✅ Conclusion
+
+This project demonstrates a scalable and effective approach to detecting offensive and toxic content in user feedback. By combining classical machine learning methods with advanced deep learning and Transformer-based models, we achieved high accuracy in offense classification.
+
+Key takeaways:
+
+- Cleaned and normalized multilingual data improves model generalization.
+- TF-IDF with Logistic Regression offers a strong baseline.
+- Deep learning models (LSTM/GRU) enhance context awareness.
+- Transformer models like BERT and XLM-RoBERTa outperform traditional methods, with XLM achieving the best F1 score.
+
+This pipeline can serve as a foundation for real-time content moderation systems across platforms, ensuring safer and more inclusive digital spaces.
 
 
 
