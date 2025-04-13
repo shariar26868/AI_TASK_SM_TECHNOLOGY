@@ -37,23 +37,25 @@ All texts have been normalized, lemmatized, and translated into English for cons
 ### ✅ Model 1: Baseline Classifier
 - **Vectorizer**: TF-IDF (unigram & bigram)
 - **Classifier**: Logistic Regression
-- **Evaluation**: F1 Score on 'offense' label
+- **Evaluation**: F1 Score on 'toxic' label
 
 <p align="center">
-  <img src="assets/model1_tfidf_lr.png" width="450" alt="TF-IDF + Logistic Regression">
+  <img src="https://github.com/user-attachments/assets/f927c3ab-43ea-44b4-a8b1-81336daa93e0" alt="download" width="600">
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6cc8c429-a555-4981-b666-9e659f20a0ff" alt="download" width="600">
+</p>
+
 
 ### 🤖 Model 2: Deep Learning & Transformers
 - **RNNs**: LSTM & GRU
 - **Transformer**: BERT  (fine-tuned)
 
 <p align="center">
-  <img src="assets/model2_architecture.png" width="600" alt="Model 2 Architecture Diagram">
+  <img src="https://github.com/user-attachments/assets/cce1a8b4-6c10-4140-ab5f-6f300f82f8f5" alt="image" width="600">
 </p>
 
----
 
 ## 📈 Results
 
