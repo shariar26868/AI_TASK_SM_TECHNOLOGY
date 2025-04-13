@@ -76,7 +76,7 @@ Key takeaways:
 - Cleaned and normalized multilingual data improves model generalization.
 - TF-IDF with Logistic Regression offers a strong baseline.
 - Deep learning models (LSTM/GRU) enhance context awareness.
-- Transformer models like BERT and XLM-RoBERTa outperform traditional methods, with XLM achieving the best F1 score.
+- Transformer models like BERT outperform traditional methods, with XLM achieving the best F1 score.
 
 This pipeline can serve as a foundation for real-time content moderation systems across platforms, ensuring safer and more inclusive digital spaces.
 
