@@ -3,7 +3,8 @@
 A robust multi-label classification system built to detect toxic behaviors in user feedback across six categories: **toxic**, **abusive**, **vulgar**, **menace**, **offense**, and **bigotry**. The final prediction focuses on identifying whether a piece of content is offensive.
 
 <p align="center">
-  <img src="assets/cover.png" width="600" alt="Toxic Classification Banner">
+ ![image](https://github.com/user-attachments/assets/78f4fa47-2ae4-4bce-9ff9-9bc5eee4348f)
+
 </p>
 
 ---
